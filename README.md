@@ -8,3 +8,5 @@ This was a super fun exercise! I made three keys:
 - 6.25 u (space key)
 Overall, I had so much fun playing around with and getting to know OnShape better, as I'm more accustomed to Fusion360 and wanted to move to OnShape.
 Timelapses can be found here: https://lapse.hackclub.com/user/@shreyaluu
+
+## W
